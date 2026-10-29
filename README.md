@@ -1,46 +1,115 @@
-<!-- Smooth Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f2937&height=180&section=header&text=Sumit%20Yadav&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer&descFontSize=18&descAlignY=60" width="100%" />
 
 <div align="center">
 
-  <!-- Subtle Animated Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vcenter=true&width=600&lines=Full-Stack+%26+Systems+Engineer;MERN+Stack+%2B+C%2B%2B+DSA;Building+Scalable+Web+Applications" alt="Typing Banner" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:050505,50:003b2f,100:00ff99&text=SUMIT%20YADAV&fontColor=ffffff&fontSize=48&fontAlignY=48&animation=fadeIn&stroke=00ff99&strokeWidth=1" width="100%" alt="Animated developer header"/>
 
-  <br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=650&lines=Initializing+Developer+Mode...;Frontend+Developer+%7C+Problem+Solver;HTML+%7C+CSS+%7C+JavaScript+%7C+C%2B%2B;Learn.+Build.+Level+Up." alt="Animated coding text"/>
 
-  <!-- Animated Glowing Social Badges -->
-  <a href="https://linkedin.com/in/sumit-yadav-26581633a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/sumityadav98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:sumitaryan715@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-sumityadav98-101820?style=for-the-badge&logo=github&logoColor=00ff99)](https://github.com/sumityadav98)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![Projects](https://img.shields.io/badge/Explore-Projects-101820?style=for-the-badge&logo=github)](https://github.com/sumityadav98?tab=repositories)
 
 </div>
 
 ---
 
-### 💻 Technical Stack & Tools
+## `> PLAYER PROFILE`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css,git,github,linux,vscode,postman&perline=8" />
-</p>
+```text
+PLAYER     : Sumit Yadav
+CLASS      : Computer Science Engineering Student
+MISSION    : Become a skilled Software Engineer
+CURRENT XP : Learn -> Build -> Practice -> Repeat
+STATUS     : Always learning
+```
+
+## `> DEVELOPER LEVEL`
+
+**LEVEL 01 — FRONTEND EXPLORER**
+
+`HTML`  `CSS`  `JavaScript`  `C++`
+
+![HTML](https://img.shields.io/badge/HTML-Structure-ff7043?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-Design-2196f3?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-f7df1e?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-Problem_Solving-00599c?style=flat-square)
+
+*Every project is another level. Every bug is another challenge.*
+
+## `> MISSION OBJECTIVES`
+
+- [x] Build my first frontend projects
+- [x] Learn DOM manipulation and JavaScript
+- [ ] Improve data structures and algorithms
+- [ ] Build a complete full-stack application
+- [ ] Develop production-ready software projects
+
+## `> FEATURED MISSIONS`
+
+### 🎮 Mission 01 — Random Image Generator
+
+Generate random images with JavaScript and DOM manipulation.
+
+[**Open Repository →**](https://github.com/sumityadav98/random-image-generator-multiple-time)
+
+### 📥 Mission 02 — Download File UI
+
+A frontend download interface built with web technologies.
+
+[**Open Repository →**](https://github.com/sumityadav98/download-file)
+
+### 🚀 Mission 03 — CodeQuest
+
+A planned coding game featuring challenges, XP, levels and achievements.
+
+*Status: Planned — not yet released.*
 
 ---
 
-### 📬 Find Me Around The Web
+## `> GITHUB PLAYER STATS`
 
-- 🚀 **GitHub:** [github.com/sumityadav98](https://github.com/sumityadav98)
-- 💼 **LinkedIn:** [linkedin.com/in/sumit-yadav-26581633a](https://linkedin.com/in/sumit-yadav-26581633a)
-- ✉️ **Email:** [sumitaryan715@gmail.com](mailto:sumitaryan715@gmail.com)
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sumityadav98&show_icons=true&theme=transparent&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=c9d1d9" alt="GitHub stats"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumityadav98&layout=compact&theme=transparent&hide_border=true&title_color=00ff99&text_color=c9d1d9" alt="Most used languages"/>
+
+</div>
+
+## `> CONTRIBUTION SNAKE`
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/sumityadav98/sumityadav98/output/github-contribution-grid-snake.svg)
+
+</div>
+
+## `> TERMINAL`
+
+```bash
+sumit@github:~$ whoami
+Computer Science Engineering Student
+
+sumit@github:~$ skills
+HTML | CSS | JavaScript | C++
+
+sumit@github:~$ next-mission
+Build. Learn. Solve problems.
+
+sumit@github:~$ exit
+Keep coding.
+```
 
 ---
 
-### 🏗️ Software Engineering Architecture
+<div align="center">
 
-Clean, decoupled layered architecture for scalable full-stack web applications:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:050505&height=100&section=footer" width="100%" alt="Animated footer"/>
 
-```mermaid
-graph TD
-    Client[React / Next.js Client] -->|HTTPS REST API| API[Express.js / Node.js Server]
-    API -->|Auth & Validation Middleware| Logic[Business Logic Layer]
-    Logic -->|Query & Aggregations| DB[(MongoDB Cluster)]
+**`LEARN  •  BUILD  •  LEVEL UP`**
+
+<sub>Thanks for visiting my developer profile.</sub>
+
+</div>
