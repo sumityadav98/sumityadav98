@@ -1,26 +1,22 @@
-<div align="center">
+# Sumit Yadav | Software Development Engineer
 
-  <!-- Dynamic Typing Header -->
-  <p><b>Software Development Engineer | Full-Stack Web Developer | C++ DSA Practitioner</b></p>
-
-  <p>
-    <a href="https://linkedin.com/in/sumit-yadav-26581633a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/sumityadav98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-    <a href="mailto:sumitaryan715@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-
-</div>
+> Full-Stack & Systems Engineer specializing in high-throughput web applications, microservices architecture, and optimized data structures.
 
 ---
 
-### 💻 System Profile (`sumit.json`)
+### 💻 System Specifications & Stack Architecture
 
 ```json
 {
-  "developer": "Sumit Yadav",
+  "engineer": "Sumit Yadav",
   "role": "Software Development Engineer (SDE)",
-  "domains": ["Full-Stack Web Development", "DSA & Problem Solving", "System Architecture"],
-  "primary_stack": ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "C++"],
-  "environment": ["Kali Linux", "Windows 11", "VS Code"],
-  "status": "Engineering production-ready web platforms & refining algorithmic complexity."
+  "location": "India",
+  "specializations": ["Full-Stack Engineering", "Distributed Systems", "API Performance & Optimization"],
+  "tech_stack": {
+    "languages": ["C++20", "JavaScript (ES6+)", "TypeScript", "SQL"],
+    "frontend": ["React.js", "Next.js", "Redux Toolkit", "Tailwind CSS"],
+    "backend": ["Node.js", "Express.js", "RESTful APIs", "Microservices"],
+    "database": ["MongoDB", "PostgreSQL", "Redis"],
+    "devops_tools": ["Docker", "Git/GitHub", "GitHub Actions (CI/CD)", "Linux (Kali/Ubuntu)"]
+  }
 }
