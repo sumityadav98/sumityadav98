@@ -1,61 +1,28 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003b16,100:39ff14&height=200&section=header&text=SUMIT%20YADAV&fontSize=50&fontColor=39FF14&animation=fadeIn&fontAlignY=38&desc=BUILD%20%7C%20LEARN%20%7C%20DEPLOY&descSize=16&descAlignY=60"/>
+  <!-- Dynamic Typing Header -->
+  <h1><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B%2C+I'm+Sumit+Yadav;Full-Stack+%26+Systems+Engineer;MERN+Stack+%2B+C%2B%2B+DSA;Building+Scalable+Web+Applications" alt="Typing Header" /></h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=600&lines=Frontend+Developer;JavaScript+Developer;B.Tech+CSE+Student;Creative+Problem+Solver" alt="Typing animation"/>
+  <p><b>Software Development Engineer | Full-Stack Web Developer | C++ DSA Practitioner</b></p>
 
-<br/>
-
-<a href="https://github.com/sumityadav98">
-<img src="https://img.shields.io/badge/GitHub-sumityadav98-39FF14?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+  <p>
+    <a href="https://linkedin.com/in/sumit-yadav-26581633a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/sumityadav98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="mailto:sumitaryan715@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 💻 System Profile (`sumit.json`)
 
-- Hi, I'm **Sumit Yadav**.
-- 🎓 B.Tech CSE, 3rd Year — Quantum University.
-- 💻 Learning HTML, CSS and JavaScript.
-- 🚀 Building interactive web development projects.
-- 🌱 Learning C++ and Data Structures & Algorithms.
-- 🎯 Goal: Become a skilled software developer.
-
-## ⚡ My Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode&theme=dark" alt="My skills"/>
-
-</div>
-
-## 🚀 My Projects
-
-- [Random Image Generator](https://github.com/sumityadav98/random-image-generator-multiple-time)
-- [Download File System](https://github.com/sumityadav98/download-file)
-
-[Explore all my repositories](https://github.com/sumityadav98?tab=repositories)
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sumityadav98&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="GitHub Stats"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumityadav98&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ BUILD. LEARN. REPEAT.
-
-*Thanks for visiting my profile!*
-
-</div>
-
+```json
+{
+  "developer": "Sumit Yadav",
+  "role": "Software Development Engineer (SDE)",
+  "domains": ["Full-Stack Web Development", "DSA & Problem Solving", "System Architecture"],
+  "primary_stack": ["React.js", "Next.js", "Node.js", "Express.js", "MongoDB", "C++"],
+  "environment": ["Kali Linux", "Windows 11", "VS Code"],
+  "status": "Engineering production-ready web platforms & refining algorithmic complexity."
+}
