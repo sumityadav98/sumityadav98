@@ -36,6 +36,22 @@ STATUS     : Always learning
 ![JavaScript](https://img.shields.io/badge/JavaScript-Logic-f7df1e?style=flat-square)
 ![C++](https://img.shields.io/badge/C%2B%2B-Problem_Solving-00599c?style=flat-square)
 
+
+
+<h2 align="center">⌨️ LIVE JAVASCRIPT CODING</h2>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=45&pause=700&color=00FF99&center=true&vCenter=true&width=750&height=180&lines=const+developer+%3D+%22Sumit+Yadav%22%3B;function+buildProject()+%7B;++++return+%22Dream+%E2%86%92+Code%22%3B;++++console.log(buildProject())%3B;%7D;const+skills+%3D+%5B%22HTML%22%2C+%22CSS%22%2C+%22JavaScript%22%5D%3B;skills.forEach(skill+%3D%3E+learn(skill))%3B;while+(true)+%7B+learn()%3B+build()%3B+%7D"
+    alt="Animated JavaScript coding effect"
+  />
+</p>
+
+<p align="center">
+  <sub>INITIALIZING DEVELOPER MODE... ▌</sub>
+</p>
+
+
 *Every project is another level. Every bug is another challenge.*
 
 ## `> MISSION OBJECTIVES`
